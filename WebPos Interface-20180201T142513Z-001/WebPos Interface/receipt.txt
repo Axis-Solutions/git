@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+    <ZimraSubmitInvoices xmlns='http://tempuri.org/'>
+      <INVOICE xmlns='http://ZIMRA/FISC'>
+        <BPN>7</BPN>
+        <CODE>7</CODE>
+        <MACNUM>170321114456</MACNUM>
+        <DECSTARTDATE>20170321</DECSTARTDATE>
+        <DECENDDATE>20170321</DECENDDATE>
+        <DETSTARTDATE>20170321114456</DETSTARTDATE>
+        <DETENDDATE>20170321114456</DETENDDATE>
+        <CPY>1.00</CPY>
+        <IND>0</IND>
+        <INVOICES>
+          <RECORD>
+            <ITYPE>sale</ITYPE>
+            <ICODE>170321114456</ICODE>
+            <INUM>Tre20170321114456</INUM>
+            <IBPN>7</IBPN>
+            <INAME>Trey</INAME>
+            <ITAXCODE>11000099211</ITAXCODE>
+            <VAT>11000099211</VAT>
+            <IADDRESS>11 Watermeyer Drive</IADDRESS>
+            <ICONTACT>07736278282</ICONTACT>
+            <ISHORTNAME>admin</ISHORTNAME>
+            <IPAYER>Takunda</IPAYER>
+            <IPVAT>11000099211</IPVAT>
+            <IPADDRESS>11 Watermeyer Drive</IPADDRESS>
+            <IPTEL>07736278282</IPTEL>
+            <IPBPN>ip7</IPBPN>
+            <IAMT>34.5000</IAMT>
+            <ITAX>4.5</ITAX>
+            <ISTATUS>01</ISTATUS>
+            <IISSUER>admin</IISSUER>
+            <IDATE>20170321</IDATE>
+            <ITAXCTRL>control</ITAXCTRL>
+            <IOCODE>01</IOCODE>
+            <IONUM>01</IONUM>
+            <Lattitude>12012</Lattitude>
+            <Longitude>-88812</Longitude>
+            <IREMARK>An Invoice Tre20170321114456</IREMARK>
+			<AMOUNTTENDERED>35</AMOUNTTENDERED>
+          <ITEMS><ITEM>
+						<HH>1</HH>
+						<ITEMCODE>Fish3kg</ITEMCODE>
+						<ITEMNAME1>Fish Capenta</ITEMNAME1>
+						<ITEMNAME2>Fish Capenta</ITEMNAME2>
+						<QTY>1.00</QTY>
+						<PRICE>30.00</PRICE>
+						<AMT>34.5000</AMT>
+						<TAX>5.175</TAX>
+						<TAXR>0.15</TAXR>
+					</ITEM>	</ITEMS>
+
+          </RECORD>
+        </INVOICES>
+      </INVOICE>
+    </ZimraSubmitInvoices>

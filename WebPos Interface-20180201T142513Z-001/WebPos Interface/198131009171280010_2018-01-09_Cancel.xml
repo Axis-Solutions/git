@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<INVOICE xmlns="http://ZIMRA/TAX">
+    <BPN>200130871</BPN>
+    <CODE>10062012</CODE>
+    <MACNUM>172.16.12.159</MACNUM>
+    <DECSTARTDATE>2018-01-09</DECSTARTDATE>
+    <DECENDDATE>2018-01-09</DECENDDATE>
+    <DETSTARTDATE>2018-01-09</DETSTARTDATE>
+    <DETENDDATE>2018-01-09</DETENDDATE>
+    <CPY>Copy Quantity</CPY>
+    <IND>end service declaration indicator</IND>
+    <INVOICES>
+        <RECORD>
+            <ITYPE>Cancel</ITYPE>
+            <INUM>198131009171280010</INUM>
+            <IBPN>200130871</IBPN>
+            <INAME>Africa Gaming (Pvt) Ltd</INAME>
+            <ICODE>10062012</ICODE>
+            <VAT>10062012</VAT>
+            <IADDRESS>101 Nelson Mandela Avenue/Fourth Street</IADDRESS>
+            <ICONTACT>+263 (04) 704241/704086</ICONTACT>
+            <ISHORTNAME>Africa Gaming (Pvt) Ltd</ISHORTNAME>
+            <IAMT>-1</IAMT>
+            <ITAX>0.15</ITAX>
+            <ISTATUS>DONE</ISTATUS>
+            <IDATE>2018-01-09</IDATE>
+            <ITAXCTRL>tax control code</ITAXCTRL>
+            <IOCODE>DGE</IOCODE>
+            <IONUM>198131009171280010</IONUM>
+            <REMARK>Transaction Done</REMARK>
+            <ITEMS>
+                <ITEM>
+                    <HH>1</HH>
+                    <ITEMCODE>Lucky Numbers</ITEMCODE>
+                    <ITEMNAME1>Lucky Numbers</ITEMNAME1>
+                    <ITEMNAME2>Lucky Numbers</ITEMNAME2>
+                    <QTY>1</QTY>
+                    <PRICE>-1</PRICE>
+                    <AMT>-1</AMT>
+                    <TAX>0.15</TAX>
+                </ITEM>
+            </ITEMS>
+        </RECORD>
+    </INVOICES>
+</INVOICE>

@@ -1,0 +1,70 @@
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\bin\Debug\UnicornTrading.exe
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\bin\Debug\UnicornTrading.pdb
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\bin\Debug\UnicornTrading.xml
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\obj\x86\Debug\Interop.FPAX_TAN2000.dll
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.ResolveComReference.cache
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\obj\x86\Debug\UnicornTrading.Form1.resources
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\obj\x86\Debug\UnicornTrading.Resources.resources
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.GenerateResource.Cache
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\obj\x86\Debug\UnicornTrading.exe
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\obj\x86\Debug\UnicornTrading.xml
+D:\axis-code\Nyasha\UnicornTrading\UnicornTrading\obj\x86\Debug\UnicornTrading.pdb
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\obj\x86\Debug\Interop.FPAX_TAN2000.dll
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.ResolveComReference.cache
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.GenerateResource.Cache
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.exe
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.pdb
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.xml
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.Form1.resources
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.Resources.resources
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.exe
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.xml
+D:\axis-code\Nyasha\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.pdb
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\Interop.FPAX_TAN2000.dll
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.ResolveComReference.cache
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.exe
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.xml
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.pdb
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.exe
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.pdb
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.xml
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.Form1.resources
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.Resources.resources
+C:\Users\pmupfurutsa\Documents\Visual Studio 2010\Projects\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.GenerateResource.Cache
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.exe
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.pdb
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosInt.xml
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbprojResolveAssemblyReference.cache
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\Interop.FPAX_TAN2000.dll
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.ResolveComReference.cache
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.Form1.resources
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.Resources.resources
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.GenerateResource.Cache
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.CoreCompileInputs.cache
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.exe
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.xml
+C:\Users\PMUPFURUTSA\Documents\Visual Studio 2017\Code Snippets\Visual Basic\My Code Snippets\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosInt.pdb
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\Interop.FPAX_TAN2000.dll
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.ResolveComReference.cache
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbprojResolveAssemblyReference.cache
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.GenerateResource.Cache
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosIntEft.exe
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosIntEft.pdb
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\bin\Debug\WebPosIntEft.xml
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.Form1.resources
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.Resources.resources
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.exe
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.xml
+D:\axis-code\Nyasha\WebPos Interface-20170829T095703Z-001\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.pdb
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\Interop.FPAX_TAN2000.dll
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.ResolveComReference.cache
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.exe
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.xml
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.pdb
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\bin\Debug\WebPosIntEft.exe
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\bin\Debug\WebPosIntEft.pdb
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\bin\Debug\WebPosIntEft.xml
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbprojResolveAssemblyReference.cache
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.Form1.resources
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\WebPosIntEft.Resources.resources
+D:\axis-code\Nyasha\WebPos Interface-SWIPE\WebPos Interface\UnicornTrading\obj\x86\Debug\UnicornTrading.vbproj.GenerateResource.Cache

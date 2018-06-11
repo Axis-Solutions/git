@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZimraSubmitInvoices xmlns="http://tempuri.org/">
+<INVOICE xmlns="http://ZIMRA/FISC">
+<INUM>Map20161228112351</INUM>
+<IBPN>2147483647</IBPN>
+<INAME>Mapanzure</INAME>
+<VAT>61266612683</VAT>
+<IADDRESS>11 watermeyer ride</IADDRESS>
+<ICONTACT>077837121123</ICONTACT>
+<IPAYER>Cash_Cust</IPAYER>
+<IPBPN>2147483647</IPBPN>
+<IAMT>8</IAMT>
+<ITAX>0.13</ITAX>
+<IISSUER>Printed By  admin</IISSUER>
+<IDATE>2016-12-28 11:26:19</IDATE>
+</INVOICE>
+</ZimraSubmitInvoices>
